@@ -18,3 +18,11 @@ p {
   font-size: 21px;
   color: gray;
 }
+h2 {
+  font-weight: 300;
+  color: white;
+  font-size: 42px;
+}
+footer {
+  text-align: right;
+}
